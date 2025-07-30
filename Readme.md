@@ -28,17 +28,14 @@ A full-stack machine learning web app that predicts house prices in Bengaluru ba
 - Feature engineering done with one-hot encoding of locations.
 - Serialized using `pickle` for deployment.
 
----
-
-## 📁 Project Structure
-
+```
 Real Estate Price Prediction/
-├── client/ # Frontend (HTML, CSS, JS)
-├── model/ # ML model, data, and notebooks
-├── server/ # Flask backend logic
+├── client/   # Frontend (HTML, CSS, JS)
+├── model/    # ML model, data, and notebooks
+├── server/   # Flask backend logic
 └── README.md # This file
+```
 
----
 
 ## ⚙️ Installation & Usage
 
